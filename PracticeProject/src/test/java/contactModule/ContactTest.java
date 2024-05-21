@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 public class ContactTest {
 	@Test
 	public void createContactTest() {
+		System.out.println("hiii nisha");
 		System.out.println("this is create contact test");
 		System.out.println("execute create contact test");
 		System.out.println("Launch browser");
