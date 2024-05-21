@@ -17,6 +17,7 @@ public class CreateOrgTest extends BaseClass{
 	public void createOrgTest()
 	{
 		System.out.println("execute create Contact");
+		System.out.println(" test 1");
 	}
 	
 	@Test
