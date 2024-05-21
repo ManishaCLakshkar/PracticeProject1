@@ -17,6 +17,9 @@ import org.openqa.selenium.interactions.Actions;
 public class CreateOrgTest {
 	public static void main(String[] args) throws EncryptedDocumentException, IOException {
 		
+		
+		
+		System.out.println("this is org test");
 		//read commondata from properties
 		FileInputStream fis = new FileInputStream("C:\\Users\\lenovo\\Desktop\\Data\\commondata1.properties");
 		Properties p = new Properties();
