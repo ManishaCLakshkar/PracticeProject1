@@ -5,7 +5,9 @@ import org.testng.annotations.Test;
 public class ContactTest {
 	@Test
 	public void createContactTest() {
+		
 		System.out.println("execute create contact test");
+		System.out.println("Launch browser");
 		System.out.println("URL");
 		System.out.println("BROWSER");
 		System.out.println("USERNAME");
